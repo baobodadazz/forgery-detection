@@ -1,0 +1,8 @@
+.vscode/
+18E/
+50E/
+predicted_masks/
+resnet18U/
+resnet50U/
+train_masks/
+recodai-luc-scientific-image-forgery-detection/
